@@ -3,6 +3,11 @@ public class Repeat {
       String str = "    OnlineJavaIde";
       System.out.println(str.stripLeading());
       
+       String str = "    OnlineJavaIde   ";
+      System.out.println(str.strip());
+      
+      String str = "OnlineJavaIde   ";
+      System.out.println(str.stripTrailing());
       
     }
 }
