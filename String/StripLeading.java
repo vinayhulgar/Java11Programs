@@ -1,13 +1,17 @@
-public class Repeat {
+public class StripLeading {
     public static void main(String args[]) {
       String str = "    OnlineJavaIde";
       System.out.println(str.stripLeading());
       
-       String str = "    OnlineJavaIde   ";
-      System.out.println(str.strip());
+       String str1 = "    OnlineJavaIde   ";
+      System.out.println(str1.strip());
       
-      String str = "OnlineJavaIde   ";
-      System.out.println(str.stripTrailing());
+      String str2 = "OnlineJavaIde   ";
+      System.out.println(str2.stripTrailing());
+
+      String str3 = "OnlineJavaIde       ";
+      System.out.println(str3.stripTrailing());
+
       
     }
 }

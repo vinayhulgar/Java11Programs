@@ -1,4 +1,7 @@
-public class MyClass {
+import java.util.ArrayList;
+import java.util.List;
+
+public class ToArray {
     public static void main(String args[]) {
       
      List<String> names = new ArrayList<>();

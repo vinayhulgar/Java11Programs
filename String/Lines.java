@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class MyClass {
+public class Lines {
     public static void main(String args[]) {
       
       String testString = "hello\nworld\nis\nexecuted";
