@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - VarInLambdaExample",
+            "request": "launch",
+            "mainClass": "VarInLambdaExample",
+            "projectName": "Java11Programs_7f420c5a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectorsImpl",
+            "request": "launch",
+            "mainClass": "CollectorsImpl",
+            "projectName": "Java11Programs_7f420c5a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Blank",
             "request": "launch",
             "mainClass": "Blank",
