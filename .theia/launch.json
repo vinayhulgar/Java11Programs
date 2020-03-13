@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PredicateImpl",
+            "request": "launch",
+            "mainClass": "PredicateImpl"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VarImpl",
+            "request": "launch",
+            "mainClass": "VarImpl"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VarInLambdaExample",
             "request": "launch",
             "mainClass": "VarInLambdaExample",
