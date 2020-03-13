@@ -1,3 +1,5 @@
+package collections;
+
 import java.util.stream.Collectors;
 public class CollectorsImpl {
     public static void main(String args[]) {

@@ -1,3 +1,5 @@
+package collections;
+
 import java.util.stream.IntStream;
 public class VarInLambdaExample {
     public static void main(String args[]) {
