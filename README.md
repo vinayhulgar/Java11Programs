@@ -1,6 +1,6 @@
 # Java11Programs
 
-:gun:Invoking Existing Methods by Name
+:gun:<b>Invoking Existing Methods by Name</b>
 
   :pushpin:Problem:
     You are developing a lambda expression that merely invokes a method that already exists in the object being passed 
